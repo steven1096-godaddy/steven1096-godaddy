@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @steven1096-godaddy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: steven1096@godaddy.com
+- 👋 Hi, I’m Steven
 
 ### Things to remember:
 - Variables should have a length proportional to the scope that contains them
